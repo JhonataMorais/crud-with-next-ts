@@ -1,0 +1,1 @@
+export const HOST_API = `https://bkbnchallenge.herokuapp.com`;
